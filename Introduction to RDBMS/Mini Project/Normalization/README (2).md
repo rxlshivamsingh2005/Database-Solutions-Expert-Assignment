@@ -1,0 +1,1 @@
+![Normalization Question](image.png)
